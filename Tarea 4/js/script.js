@@ -1,0 +1,1 @@
+// Aquí puedes agregar funciones interactivas con AJAX o confirmaciones
